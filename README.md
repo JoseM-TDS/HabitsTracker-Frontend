@@ -8,4 +8,4 @@ Requiere instalación de NodeJS y NPM para lanzar la página web.
 2. Iniciar el Frontend de la página web desde la línea de comandos con el comando: ```npm run dev```
 
 ## Vercel
-El proyecto ha sido desplegado en Vercel. Acceder a través del enlace:
+El proyecto ha sido desplegado en Vercel. Acceder a través del enlace: https://habits-app-frontend.vercel.app/
